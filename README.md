@@ -1,6 +1,9 @@
 # Recipe App
 
-This project was boostrapped using `create-react-app`. I used [Edamam's Recipe search API](https://developer.edamam.com/edamam-recipe-api), to fetch the information.
+This project was boostrapped using `create-react-app`. I used [Edamam's Recipe search API](https://developer.edamam.com/edamam-recipe-api), to fetch the information. 
+
+This project is licensed under the 3-Clause BSD License (also known as Modified BSD License). It's a permissive enough license like the MIT license, so do what you want.
+ 
 
 ## Images from the app
 
