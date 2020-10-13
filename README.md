@@ -10,4 +10,4 @@ This project was boostrapped using `create-react-app`. I used [Edamam's Recipe s
 
 ## Credits
 
-This project was based off the YouTube tutorial from Dev Ed which you can view [here]("https://youtu.be/U9T6YkEDkMo")
+This project was based off the YouTube tutorial from Dev Ed which you can view [here](https://youtu.be/U9T6YkEDkMo)
