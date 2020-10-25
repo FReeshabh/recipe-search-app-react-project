@@ -14,3 +14,5 @@ This project is licensed under the 3-Clause BSD License (also known as Modified 
 ## Credits
 
 This project was based off the YouTube tutorial from Dev Ed which you can view [here](https://youtu.be/U9T6YkEDkMo)
+
+## Also using this repository for Hacktoberfest 2020
